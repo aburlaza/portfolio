@@ -1,0 +1,89 @@
+/* 
+Font: Inter
+300: light
+400: regular
+500: medium
+600: semibold
+700: bold
+*/
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: #fdf8f2;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.25;
+    font-style: normal;
+    color: #000000;
+}
+
+h1 {
+    font-size: 1.75em;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+a {
+    color: #ff7f50;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ff7f50;
+}
+
+a:hover,
+a:focus {
+  color: #cc6540;
+  text-decoration: underline;
+}
+
+a:active {
+    color: #994c30;
+}
+
+.button {
+    display: inline-block;
+    background-color: #ff7f50;
+    color: #ffffff;
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 3px;
+    border-bottom: 2px solid #994c30;
+    transition: 0.2s opacity;
+}
+
+.button:hover {
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+.button.contact {
+    background-color: transparent;
+    color: #ff7f50;
+    text-transform: uppercase;
+    border: 2px solid #ff7f50;
+}
+  
+.button.contact:hover {
+    background-color: #ff7f50;
+    color: #ffffff;
+}
+  
+  
