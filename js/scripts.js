@@ -1,0 +1,1 @@
+console.log("Welcome! Feel free to browse around.");
