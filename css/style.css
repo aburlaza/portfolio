@@ -157,11 +157,7 @@ nav ul li a {
     color: #4a4a4a;
 }
 
-.navtoggle.responsive li {
-    display: block;
-    padding: 10px 0;
-    border-top: 1px solid rgba(255,127,80,0.5);
-}
+
 
 .navtoggle li .icon {
     position: absolute;
@@ -185,6 +181,12 @@ nav ul li a {
 
 .navtoggle.responsive nav {
     padding: 24px 0 0;
+}
+
+.navtoggle.responsive li {
+    display: block;
+    padding: 10px 0;
+    border-top: 1px solid rgba(255,127,80,0.5);
 }
 
 #social {
