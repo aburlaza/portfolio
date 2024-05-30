@@ -94,12 +94,12 @@ h3 {
 }
   
 a {
-    color: #ff7f50;
+    color: #DB3B00;
     text-decoration: none;
 }
   
 a:visited {
-    color: #ff7f50;
+    color: #DB3B00;
 }
   
 a:hover, a:focus {
@@ -113,7 +113,7 @@ a:active {
   
 .button, .button:visited {
     display: inline-block;
-    background-color: #ff7f50;
+    background-color: #DB3B00;
     color: #ffffff;
     font-weight: 400;
     padding: 10px;
@@ -129,13 +129,13 @@ a:active {
   
 .button.contact {
     background-color: transparent;
-    color: #ff7f50;
+    color: #DB3B00;
     text-transform: uppercase;
-    border: 2px solid #ff7f50;
+    border: 2px solid #DB3B00;
 }
     
 .button.contact:hover {
-    background-color: #ff7f50;
+    background-color: #DB3B00;
     color: #ffffff;
 }
   
@@ -156,8 +156,6 @@ nav ul li a {
     font-weight: 700;
     color: #4a4a4a;
 }
-
-
 
 .navtoggle li .icon {
     position: absolute;
